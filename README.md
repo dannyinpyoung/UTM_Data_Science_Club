@@ -1,2 +1,2 @@
-# UTM_Data_Science_Club
+# UTM Data Science Club
 Club Material and Teaching Files
